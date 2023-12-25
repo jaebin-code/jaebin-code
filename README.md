@@ -2,12 +2,6 @@
 
 I am a student at Sungkyunkwan University with a keen interest in data science.
 
-## About Me
-- 📚 Currently pursuing my education at Sungkyunkwan University.
-- 💡 Passionate about exploring the field of data science and its applications.
-- 🏢 Interested in architectural energy, seeking sustainable solutions for the built environment.
-- ⚽ Enthusiastic about sports and its intersection with data analytics.
-
 ### Connect with me:
 [<img align="left" alt="jaebin | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="jaebin | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
