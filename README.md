@@ -7,7 +7,6 @@ I am a student at Sungkyunkwan University with a keen interest in data science.
 [<img align="left" alt="jaebin | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/jaebin-lee-9b9117217/
-[instagram]: https://instagram.com/jae__bean
 
 <!--
 **jaebin-code/jaebin-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
