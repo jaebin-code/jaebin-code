@@ -4,7 +4,6 @@ I am a student at Sungkyunkwan University with a keen interest in data science.
 
 ### Connect with me:
 [<img align="left" alt="jaebin | LinkedIn" width="48px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="jaebin | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/jaebin-lee-9b9117217/
 
